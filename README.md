@@ -1,1 +1,1 @@
-Java ile nesne yönelimli programlama dersine yönelik kütüphane otomasyonu
+Nesne yönelimli programlama dersine yönelik kütüphane otomasyonu
